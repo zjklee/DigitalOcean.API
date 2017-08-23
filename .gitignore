@@ -218,3 +218,9 @@ pip-log.txt
 *.userprefs
 *.csprojbak
 *.nupkg
+
+#############
+## Rider
+#############
+.idea/
+
